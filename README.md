@@ -4,7 +4,7 @@
 
 <div align="center">
 Please feel free to clone/fork projects, raise issues and submit PRs if you think something could be better. <br>
-Ask me anything <a href="mailto:contact@helmipaty@gmail.com"> <i class="fas fa-envelope"></i> Here </a>
+Ask me anything <a href="mailto:helmipaty@gmail.com"> <i class="fas fa-envelope"></i> Here </a>
 
 😊
 
