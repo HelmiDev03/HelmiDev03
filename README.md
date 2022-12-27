@@ -17,7 +17,7 @@ Ask me anything <a href="mailto:helmipaty@gmail.com"><b>Here</b></a>
 <a href="https://readme-jokes.vercel.app"><img align="center" src="https://readme-jokes.vercel.app/api" alt="README Jokes"></a>
 
 ---
-[![HitCount](http://hits.dwyl.com/ABSphreak/ABSphreak.svg)](http://hits.dwyl.com/ABSphreak/ABSphreak)
+
 
 <i>Follow me around the web:</i><br>
 
