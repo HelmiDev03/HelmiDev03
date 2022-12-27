@@ -4,7 +4,7 @@
 
 <div align="center">
 Please feel free to clone/fork projects, raise issues and submit PRs if you think something could be better. <br>
-Ask me anything <a href="mailto:helmipaty@gmail.com"><b>Here</b></a> 
+Ask me anything <a href="mailto:helmipaty@gmail.com">Here</a> 
 
 😊
 
@@ -13,7 +13,7 @@ Ask me anything <a href="mailto:helmipaty@gmail.com"><b>Here</b></a>
 <div align="center">
 
 
-<i>Random dev joke for you! (create your own by clicking here ↓)</i><br>
+<i>Random dev joke for you! </i><br>
 <a href="https://readme-jokes.vercel.app"><img align="center" src="https://readme-jokes.vercel.app/api" alt="README Jokes"></a>
 
 ---
