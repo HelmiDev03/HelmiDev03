@@ -1,5 +1,5 @@
 <div align="center">
-<h2> 𝐇𝐞𝐥𝐥𝐨 𝐭𝐡𝐞𝐫𝐞, 𝐟𝐞𝐥𝐥𝐨𝐰 <𝚍𝚎𝚟𝚎𝚕𝚘𝚙𝚎𝚛𝚜/>! </h2>
+<h2> 𝐇𝐞𝐥𝐥𝐨 T𝐡𝐞𝐫𝐞, F𝐞𝐥𝐥𝐨𝐰 <D𝚎𝚟𝚎𝚕𝚘𝚙𝚎𝚛𝚜/>! </h2>
 </div>
 
 <div align="center">
@@ -13,13 +13,13 @@ Ask me anything <a href="mailto:helmipaty@gmail.com"> <i class="fas fa-envelope"
 <div align="center">
 
 
-<i>Random dev joke for you! </i><br>
+<i>Random Dev Joke  !  (Ken Ma3jbtkch Awka Maghir Matatini Rayek Khatrou Unusless ) </i><br>
 <a href="https://readme-jokes.vercel.app"><img align="center" src="https://readme-jokes.vercel.app/api" alt="README Jokes"></a>
 
 ---
 
 
-<i>Follow me around the web:</i><br>
+<i>Follow Me !</i><br>
 
 
 
