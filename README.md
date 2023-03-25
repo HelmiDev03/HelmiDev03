@@ -3,8 +3,7 @@
 </div>
 
 <div align="center">
-Please feel free to clone/fork projects, raise issues and submit PRs if you think something could be better. <br>
-Ask me anything <a href="mailto:helmipaty@gmail.com"> <i class="fas fa-envelope"></i> Here </a>
+Please feel free to clone/fork repos ,raise issues and submit PRs if you think something could be better. <br>
 
 😊
 
@@ -13,7 +12,7 @@ Ask me anything <a href="mailto:helmipaty@gmail.com"> <i class="fas fa-envelope"
 <div align="center">
 
 
-<i>Random Dev Joke  !  (Ken Ma3jbtkch Awka Maghir Matatini Rayek Khatrou Unusless ) </i><br>
+<i>Manfadlkouch ? </i><br>
 <a href="https://readme-jokes.vercel.app"><img align="center" src="https://readme-jokes.vercel.app/api" alt="README Jokes"></a>
 
 ---
