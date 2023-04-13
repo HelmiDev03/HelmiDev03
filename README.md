@@ -4,6 +4,7 @@
 
 <div align="center">
 Please feel free to clone/fork repos ,raise issues and submit PRs if you think something could be better. <br>
+🌱 Currently Learning <a href="https://www.djangoproject.com/">DJANGO</a>
 
 😊
 
@@ -13,7 +14,7 @@ Please feel free to clone/fork repos ,raise issues and submit PRs if you think s
 
 
 <i>Manfadlkouch ? </i><br>
-<a href="https://readme-jokes.vercel.app"><img align="center" src="https://readme-jokes.vercel.app/api" alt="README Jokes"></a>
+<a  href="https://readme-jokes.vercel.app"><img align="center" src="https://readme-jokes.vercel.app/api" alt="README Jokes"></a>
 
 ---
 
