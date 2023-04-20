@@ -4,7 +4,7 @@
 
 <div align="center">
 Please feel free to clone/fork repos ,raise issues and submit PRs if you think something could be better. <br>
-🌱 Currently Learning <a href="https://www.djangoproject.com/">DJANGO</a>
+🌱 Currently Looking For A Better Position 
 
 😊
 
