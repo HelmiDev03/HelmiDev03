@@ -9,6 +9,8 @@ Please feel free to clone/fork repos ,raise issues and submit PRs if you think s
 😊
 
 </div>
+<div align="center">
+
 Programming Languages
 
 <img title="Python" alt="Python" width="40px" style="margin-top:-2px;"  src="https://raw.githubusercontent.com/github/explore/master/topics/python/python.png" /><img title="Cpp" alt="C" width="30px" src="https://github.com/HelmiDev03/nextjs/blob/main/pages/ISO_C%2B%2B_Logo.svg.png">
@@ -17,7 +19,7 @@ Programming Languages
 Libraries and Frameworks
 
 
-<img title="Django" alt="Django" width="80px" src="https://static.djangoproject.com/img/logos/django-logo-negative.png">
+<img title="Django" alt="Django" width="80px" src="https://static.djangoproject.com/img/logos/django-logo-negative.png"><br>
 
 Cloud
 
@@ -34,6 +36,8 @@ Tools
 <img title="VS Code" alt="VS Code" width="40px" src="https://img.icons8.com/fluent/48/000000/visual-studio-code-2019.png">    <img title="git" alt="git" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/git/git.png">
 
 <br>
+</div>
+
 
 <div align="center">
 
