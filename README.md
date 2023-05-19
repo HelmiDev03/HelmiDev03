@@ -13,7 +13,7 @@ Please feel free to clone/fork repos ,raise issues and submit PRs if you think s
 
 Programming Languages
 
-<img title="Python" alt="Python" width="40px" style="margin-top:-2px;"  src="https://raw.githubusercontent.com/github/explore/master/topics/python/python.png" /><img title="Cpp" alt="C" width="30px" src="https://github.com/HelmiDev03/nextjs/blob/main/pages/ISO_C%2B%2B_Logo.svg.png">
+<img title="Python" alt="Python" width="40px" style="margin-top:-2px;"  src="https://raw.githubusercontent.com/github/explore/master/topics/python/python.png" /><img title="C++" alt="C" width="30px" src="https://github.com/Helmi09/website/blob/main/c.png">
 
 
 Libraries and Frameworks
@@ -23,12 +23,12 @@ Libraries and Frameworks
 
 Cloud
 
-<img title="Azure" alt="Azure" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/azure/azure.png">|<img title="render" alt="render" width="80px" height='30px' src="https://github.com/HelmiDev03/nextjs/blob/main/pages/render.png">
-|--|--|
+<img title="Azure" alt="Azure" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/azure/azure.png">
+
 
 Databases
 
-<img title="MongoDB" alt="MongoDB" width="40px" src="https://github.com/HelmiDev03/nextjs/blob/main/pages/aa.png"> <br>
+<img title="PostGreSQL" alt="PostGreSQL" width="40px" src="https://github.com/Helmi09/website/blob/main/pos.png"> <br>
 
 
 Tools
