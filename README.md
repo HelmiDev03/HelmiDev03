@@ -45,10 +45,8 @@ Tools
 <i>Manfadlkouch ? </i><br>
 <a  href="https://readme-jokes.vercel.app"><img align="center" src="https://readme-jokes.vercel.app/api" alt="README Jokes"></a>
 
----
-
-
-<i>Follow Me !</i><br>
+--
+<br>
 
 
 
