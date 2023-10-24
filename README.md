@@ -51,6 +51,6 @@ Tools
 
 
 <a href="https://www.linkedin.com/in/helmipl/?originalSubdomain=tn" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-  <a href="https://leetcode.com/HelmiDev/" target="_blank"><img src="https://img.shields.io/badge/LeetCode-%230A0A0A.svg?&style=flat-square&logo=CPto&logoColor=black" alt="LeetcCode"></a>
+  <a href="https://leetcode.com/HelmiDev/" target="_blank"><img src="https://img.shields.io/badge/LeetCode-%23F89F1B.svg?&style=flat-square&logo=CPto&logoColor=black" alt="LeetcCode"></a>
 </div>
 
