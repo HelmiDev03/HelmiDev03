@@ -42,7 +42,7 @@ Tools
 <div align="center">
 
 
-<i>Manfadlkouch ? </i><br>
+<i> Don't forget to take some time to relax  !  </i><br>
 <a  href="https://readme-jokes.vercel.app"><img align="center" src="https://readme-jokes.vercel.app/api" alt="README Jokes"></a>
 
 --
@@ -50,7 +50,7 @@ Tools
 
 
 
-<a href="https://www.linkedin.com/in/helmipl/?originalSubdomain=tn" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+
   <a href="https://leetcode.com/HelmiDev/" target="_blank"><img src="https://img.shields.io/badge/LeetCode-%23F89F1B.svg?&style=flat-square&logo=CPto&logoColor=black" alt="LeetcCode"></a>
 </div>
 
