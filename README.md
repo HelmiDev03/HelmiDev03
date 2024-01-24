@@ -46,11 +46,6 @@ Tools
 <a  href="https://readme-jokes.vercel.app"><img align="center" src="https://readme-jokes.vercel.app/api" alt="README Jokes"></a>
 
 --
-<br>
 
-
-
-
-  <a href="https://leetcode.com/HelmiDev/" target="_blank"><img src="https://img.shields.io/badge/LeetCode-%23F89F1B.svg?&style=flat-square&logo=CPto&logoColor=black" alt="LeetcCode"></a>
 </div>
 
