@@ -20,7 +20,7 @@ Libraries and Frameworks
 
 
 <img title="Django"   alt="Django" width="80px" height="70" src="https://static.djangoproject.com/img/logos/django-logo-negative.png">
-<img src="https://assets.vercel.com/image/upload/v1662130559/nextjs/Icon_light_background.png" height="80">
+<img src="https://assets.vercel.com/image/upload/v1662130559/nextjs/Icon_light_background.png" height="80" alt="NextJs">
 
 
 Cloud
