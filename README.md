@@ -50,10 +50,6 @@
   </a>
 </div>
 
-###
 
-<div align="center">
-  <img src="https://profile-counter.glitch.me/HelmiDev03/count.svg?"  />
-</div>
 
 ###
